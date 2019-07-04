@@ -1,0 +1,10 @@
+<h1>Minust</h1> //Title
+<div>   //Content
+	<div class="multiPage" folder="content/about"></div>    //Active element, which is recognized by the system.
+</div>
+
+
+List of active elements:
+    <div class="multiPage" folder="content/about"></div>        Multiple pages
+	<div class="slideshow" folder="content/practice"></div>     Image navigation
+	<div class="gallery" folder="content/projects"></div>       Navigation bar to the left and content to the right.
